@@ -9,15 +9,15 @@ UniLive! Mascot App festival
 ------
 
 
-3日間遊んでみた。
+3日間遊んでみた。  
 『UniLive! Mascot App Festival』はスマホで遊べるリズムアクションゲーム♪ユニティちゃんの楽曲で遊べるライブパートで、8人と一緒にマスコットアプリ文化祭を盛り上げよう！
 
 
-リズムに合わせてマスコットキャラクターたちに好きな物を食べさせてあげよう。
+
 
 2. プレイ画面
     * ![画像2](https://github.com/socketo/unilive/blob/master/img/game1.jpg "game1")
-
+リズムに合わせてマスコットキャラクターたちに好きな物を食べさせてあげよう。
 
 
 この作品は[マスコットアプリ文化祭2014](http://pronama.github.io/mascot-apps-contest/2014/) に応募しています。
@@ -37,5 +37,5 @@ UniLive! Mascot App festival
 
 
 
-
-3日間で全力を尽くした。反省はしていない。製作者：らなとす([@Ranats_rifle](https://twitter.com/Ranats_rifle)), そけと([@socket_x](https://twitter.com/socket_x)), シュタ([@sj_7shu](https://twitter.com/sj_7shu))
+3日間で全力を尽くした。反省はしていない。  
+製作者：らなとす([@Ranats_rifle](https://twitter.com/Ranats_rifle)), そけと([@socket_x](https://twitter.com/socket_x)), シュタ([@sj_7shu](https://twitter.com/sj_7shu))
