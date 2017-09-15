@@ -38,4 +38,4 @@ UniLive! Mascot App festival
 
 
 3日間で全力を尽くした。反省はしていない。  
-製作者：らなとす([@Ranats_rifle](https://twitter.com/Ranats_rifle)), そけと([@socket_x](https://twitter.com/socket_x)), シュタ([@sj_7shu](https://twitter.com/sj_7shu))
+製作者：らなとす([@Ranats85](https://twitter.com/Ranats85)), そけと([@sys_socket](https://twitter.com/sys_socket)), シュタ([@sj_7shu](https://twitter.com/sj_7shu))
